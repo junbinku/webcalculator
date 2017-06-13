@@ -1,0 +1,45 @@
+
+body{
+	text-align: center;
+	background-color: #57B8AE;
+	
+}
+
+.button{
+	width:65px;
+	height: 60px;
+	background-color:  #8C6E64;
+	border:none;
+	color: #F5F5F5;
+	margin-top: -16px;
+	margin-left: -4px;
+	border-left:10px;
+	border-color: black;
+	font-size: 15px;
+
+
+}
+.button2{
+	width:65px;
+	height:60px;
+	background-color:#57B8AE;
+	border: none;
+	color: #F5F5F5;
+	margin-top: -16px;
+	margin-left: -4px;
+	font-size: 15px;
+
+
+
+}
+
+.display input{
+    margin-top: 100px;
+    margin-bottom: -0px;
+    height:70px;
+    width: 265px;
+    color:#8C6E64;
+    background-color:#F5F5F5;
+    font-size:21px;
+    text-align:right;
+}
